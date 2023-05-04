@@ -21,7 +21,7 @@ public class InformacoesUsuarioPageObjectsTest {
     public void setUp() {
         navegador = Web.createBrowserStack();
     }
-
+        //teste
     @Test
     public void testAdicionarUmaInformacaoAdicionalDoUsuario(
             @Param(name="login")String login,
