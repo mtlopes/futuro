@@ -40,7 +40,7 @@ public class InformacoesUsuarioTest {
         // Digitar no campo com name "login" que está dentro do formulário de id "signinbox" o texto "julio0001"
         formularioSignInBox.findElement(By.name("login")).sendKeys("mtlopes");
 
-        // Digitar no campo com name "password" que está dentro do formulário de id "signinbox" o texto "123456"
+        // //Digitar no campo com name "password" que está dentro do formulário de id "signinbox" o texto "123456"
         formularioSignInBox.findElement(By.name("password")).sendKeys("123456");
 
         // Clicar no link com o texto "SIGN IN"
