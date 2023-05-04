@@ -35,6 +35,12 @@
             <artifactId>easytest-core</artifactId>
             <version>1.4.0</version>
         </dependency>
-
     </dependencies>
+           <repositories>
+    <repository>
+      <id>forplay-legacy</id>
+      <url>http://forplay.googlecode.com/svn/mavenrepo</url>
+    </repository>
+  </repositories>
+         
 </project>
