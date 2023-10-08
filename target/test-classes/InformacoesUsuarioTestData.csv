@@ -1,9 +1,0 @@
-testAdicionarUmaInformacaoAdicionalDoUsuario,tipo,contato,mensagem,Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms)
-"",Phone,+5511989891132,Your contact has been added!,1364.0,1364.0,1364.0,1364.0,1364.0,1364.0,1364.0
-"",Phone,+5511989891133,Your contact has been added!,1357.0,1357.0,1357.0,1357.0,1357.0,1357.0,1357.0
-"",Phone,+5511989891134,Your contact has been added!,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0,1350.0
-"",E-mail,email0001@julio.com,Your contact has been added!,1026.0,1026.0,1026.0,1026.0,1026.0,1026.0,1026.0
-"",E-mail,email0002@julio.com,Your contact has been added!,928.0,928.0,928.0,928.0,928.0,928.0,928.0
-removerUmContatoDeUmUsuario,telefone,mensagem,Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms)
-"",+5511989891132,"Rest in peace, dear phone!",8818.0,8818.0,8818.0,8818.0,8818.0,8818.0,8818.0
-"",+5511989891133,"Rest in peace, dear phone!",8795.0,8795.0,8795.0,8795.0,8795.0,8795.0,8795.0
